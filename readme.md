@@ -5,3 +5,4 @@ It's a repo with some code challenges from [HackerRank](https://www.hackerrank.c
 ## Languages
 
 PHP 8.x
+Javascript
